@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jiya
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning java
-- 📫 How to reach me jiyagartaul@gmail.com
+- 📫 How to reach me jiyagartaula@gmail.com
 - ⚡ Fun fact: just a chill guy
 
 <!---
