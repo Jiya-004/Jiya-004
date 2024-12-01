@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jiya
--👀 I’m interested in **nothing** (for now, but who knows what the future holds? 🤔).
+- 👀 I’m interested in **nothing** (for now, but who knows what the future holds? 🤔).
 - 🌱 I’m currently learning **Java** 💻.
 - 📫 You can reach me at: jiyagartaula@gmail.com
 - ⚡ Fun fact: I'm just a chill guy 😎.
